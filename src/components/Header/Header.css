@@ -1,0 +1,25 @@
+.nav-bar {
+  background: #000;
+  width: 100%;
+  height: 80px;
+}
+.nav-bar a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  margin-right: 20px;
+  padding: 30px 10px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+.header {
+  margin: 0;
+  background-image: url(../../image/banner-2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-align: center;
+  color: #fff;
+  padding: 50px;
+}

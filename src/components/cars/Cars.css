@@ -1,0 +1,46 @@
+.car-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 310px;
+  height: 500px;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.1)
+  );
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.image img {
+  width: 300px;
+  height: 220px;
+  border-radius: 10px;
+}
+.info h6 {
+  margin: 0;
+  padding: 5px;
+  font-size: 16px;
+}
+.btn {
+  padding: 6px 40px;
+  /* border-radius: 10px 30px; */
+  border: none;
+  background-color: black;
+  color: white;
+}
+.btn:hover {
+  border-radius: 150px 30px;
+}
+.social {
+  text-align: center;
+}
+.social a {
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+.social a:hover {
+  color: blue;
+}

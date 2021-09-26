@@ -1,0 +1,21 @@
+.showroom-body {
+  margin: auto;
+  margin-top: 2rem;
+  min-height: 80vh;
+  width: 80%;
+}
+.section {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.cars-container {
+  border-right: 2px solid black;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 20px;
+  margin-left: 35px;
+}
+
+.cart-body h1 {
+  text-align: center;
+}
