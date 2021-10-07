@@ -19,3 +19,10 @@
 .cart-body h1 {
   text-align: center;
 }
+/* .cart-body {
+  width: 400px;
+  height: 400px;
+  margin-left: 20px;
+  border: 2px solid darkred;
+  box-shadow: 5px 8px 5px rgba(0, 0, 0, 0.37);
+} */

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Cars from '../cars/Cars';
 import Cart from '../cart/Cart';
+// import CartComponet from '../cart/cart-components/CartComponet';
 import './Showroom.css'
 
 const Showroom = () => {
@@ -8,7 +9,7 @@ const Showroom = () => {
     useEffect(()=>{
         fetch('./data.JSON')
         .then(res => res.json())
-        .then(data => setCars(data))
+        .then(data => setCars(data));
     },[]);
     const [cart, setCart] = useState([]);
 
@@ -30,8 +31,9 @@ const Showroom = () => {
                     }
                 </div>
                 <div className="cart-body">
-                    <h1>cart</h1>
+                    <h1 style={{borderBottom:'1px solid #000'}}>cart</h1>
                     <Cart cart={cart}></Cart>
+                    {/* <CartComponet cart={cart}></CartComponet> */}
                 </div>
             </div>
         </div>

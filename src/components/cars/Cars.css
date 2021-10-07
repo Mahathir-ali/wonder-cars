@@ -5,13 +5,15 @@
   align-items: center;
   width: 310px;
   height: 500px;
-  background: linear-gradient(
+  /* background: linear-gradient(
     to right bottom,
     rgba(255, 255, 255, 0.5),
     rgba(255, 255, 255, 0.1)
-  );
+  ); */
+  background-color: #fff;
   margin-top: 10px;
   border-radius: 10px;
+  box-shadow: 5px 8px 5px rgba(0, 0, 0, 0.384);
 }
 .image img {
   width: 300px;

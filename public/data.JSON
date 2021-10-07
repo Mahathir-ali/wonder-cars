@@ -1,29 +1,95 @@
-[{"id":1,"name":"Porsche","model":"911","price":"135000","img":"https://presskit.porsche.de/models/daten/assets/models-porsche-new-911/images/topic-slider/911Valencia_Slider_Head-Images_0000_1_Intro.jpg","madeIn":"Germany","HP":"450-hp","launched-year":2006},
+[
+    {
+        "id":1,
+        "name":"Porsche",
+        "model":"911",
+        "price":"135000",
+        "img":"https://presskit.porsche.de/models/daten/assets/models-porsche-new-911/images/topic-slider/911Valencia_Slider_Head-Images_0000_1_Intro.jpg","madeIn":"Germany",
+        "HP":"450-hp",
+        "launched-year":2006
+    },
 
-    {"id":2,"name":"Nissan","model":"GT-R nismo 2020","price":"215000","img":"https://media.zigcdn.com/media/content/2019/Apr/exterior_01_720x540.jpg","madeIn":"Japan","HP":"600-hp","launched-year":2020},
+    {
+        "id":2,
+        "name":"Nissan",
+        "model":"GT-R nismo 2020",
+        "price":"215000",
+        "img":"https://media.zigcdn.com/media/content/2019/Apr/exterior_01_720x540.jpg",
+        "madeIn":"Japan",
+        "HP":"600-hp",
+        "launched-year":2020
+    },
 
-    {"id":3,"name":"Toyota","model":"supra 2019","price":"56180","img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-toyota-supra-2p0-109-1597939346.jpg?crop=0.583xw:0.438xh;0.279xw,0.375xh&resize=980:*","madeIn":"Austria","HP":"335-hp","launched-year":2019},
+    {
+        "id":3,
+        "name":"Toyota",
+        "model":"supra 2019",
+        "price":"56180",
+        "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-toyota-supra-2p0-109-1597939346.jpg?crop=0.583xw:0.438xh;0.279xw,0.375xh&resize=980:*",
+        "madeIn":"Austria",
+        "HP":"335-hp",
+        "launched-year":2019
+    },
 
-    {"id":4,"name":"Lamborghini ","model":"Aventador","price":"335000","img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/10-aventador-ultimae-coupe-1625665679.jpg?crop=0.505xw:0.448xh;0.251xw,0.168xh&resize=1200:*","madeIn":"Italy","HP":"740-hp","launched-year":2017},
+    {
+        "id":4,
+        "name":"Lamborghini ",
+        "model":"Aventador",
+        "price":"335000",
+        "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/10-aventador-ultimae-coupe-1625665679.jpg?crop=0.505xw:0.448xh;0.251xw,0.168xh&resize=1200:*",
+        "madeIn":"Italy",
+        "HP":"740-hp",
+        "launched-year":2017
+    },
 
-    {"id":5,"name":"Bentley","model":"Continental GT Coupe","price":"202500","img":"https://www.topgear.com/sites/default/files/images/news-article/carousel/2021/04/fef39cbaf7eb6d799fcf8131d088a67a/continentalgtspeedconvertible-1.jpg?w=976&h=549","madeIn":"England","HP":"626-hp","launched-year":2021},
+    {
+        "id":5,
+        "name":"Bentley",
+        "model":"Continental GT Coupe",
+        "price":"202500",
+        "img":"https://www.topgear.com/sites/default/files/images/news-article/carousel/2021/04/fef39cbaf7eb6d799fcf8131d088a67a/continentalgtspeedconvertible-1.jpg?w=976&h=549",
+        "madeIn":"England",
+        "HP":"626-hp",
+        "launched-year":2021
+    },
     
-    {"id":6,"name":"Tesla","model":"model 3","price":"75000","img":"https://934185.smushcdn.com/2425611/wp-content/uploads/2021/06/ms-homepage-social-1024x536.jpg?lossy=1&strip=1&webp=1","madeIn":"USA","HP":"283-hp","launched-year":2017},
+    {
+        "id":6,
+        "name":"Tesla",
+        "model":"model 3",
+        "price":"75000",
+        "img":"https://934185.smushcdn.com/2425611/wp-content/uploads/2021/06/ms-homepage-social-1024x536.jpg?lossy=1&strip=1&webp=1","madeIn":"USA","HP":"283-hp",
+        "launched-year":2017
+    },
     
-    {"id":7,"name":"BMW","model":"M8","price":"135000","img":"https://gaadiwaadi.com/wp-content/uploads/2020/08/2020-BMW-M8-Competition-1-1068x712.jpg","madeIn":"Germany","HP":"617-hp","launched-year":2019},
+    {
+        "id":7,
+        "name":"BMW",
+        "model":"M8",
+        "price":"135000",
+        "img":"https://gaadiwaadi.com/wp-content/uploads/2020/08/2020-BMW-M8-Competition-1-1068x712.jpg",
+        "madeIn":"Germany",
+        "HP":"617-hp",
+        "launched-year":2019
+    },
     
     {
         "id":8,
         "name":"AUDI",
-        "model":"RS7","price":"114000","img":"http://cdn.carbuzz.com/gallery-images/1600/831000/800/831844.jpg","madeIn":"Germany","HP":"591-hp","launched-year":2020},
+        "model":"RS7","price":"114000",
+        "img":"http://cdn.carbuzz.com/gallery-images/1600/831000/800/831844.jpg",
+        "madeIn":"Germany",
+        "HP":"591-hp",
+        "launched-year":2020
+    },
     
     {
-    "id":9,
-    "name":"Rolls Royce",
-    "model":"Phantom",
-    "price":"450000",
-    "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-rolls-royce-phantom-mmp-1-1608156397.jpg?crop=1.00xw:0.752xh;0,0.0833xh&resize=768:*","madeIn":"England",
-    "HP":"563-hp",
-    "launched-year":2006
+        "id":9,
+        "name":"Rolls Royce",
+        "model":"Phantom",
+        "price":"450000",
+        "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-rolls-royce-phantom-mmp-1-1608156397.jpg?crop=1.00xw:0.752xh;0,0.0833xh&resize=768:*","madeIn":"England",
+        "HP":"563-hp",
+        "launched-year":2006
     }
 ]

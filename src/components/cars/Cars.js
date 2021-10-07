@@ -4,7 +4,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart, faPhone   } from '@fortawesome/free-solid-svg-icons';
 import { faFacebookSquare, faTwitterSquare, faInstagramSquare} from '@fortawesome/free-brands-svg-icons';
 const Cars = (props) => {
-
     const {name, img, model,madeIn, price, HP} = props.car;
     const icon = <FontAwesomeIcon icon={faShoppingCart}/>
     const facebook = <FontAwesomeIcon icon={faFacebookSquare}/>
